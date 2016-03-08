@@ -1,5 +1,5 @@
-# SharedKnowledge
-A collection of examples of advanced knowledge for software development
+# Debugged
+A collection of lessons in software development
 
 ## Seemingly indecipherable crash in `objc_msgSend`
 
